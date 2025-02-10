@@ -6,8 +6,9 @@
 - Abdishakur Ahmed Abshir
 
 A new Flutter project.
--Figma Design.
+- Figma Design.
  https://www.figma.com/design/hZ28zoGg2J54G44eK16WoC/Coffee_app?node-id=0-1&p=f&t=5DjncZd8OzrBWdrN-0
+ - A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
