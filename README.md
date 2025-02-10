@@ -1,9 +1,9 @@
 # coffee_app
-Our Team 
-Abdirizak ismail mohamed.
-Yhaye Mahad Ahmed 
-Mohamed Abdulkadir Mohamed
-Abdishakur Ahmed Abshir
+- Our Team 
+- Abdirizak ismail mohamed.
+- Yhaye Mahad Ahmed 
+- Mohamed Abdulkadir Mohamed
+- Abdishakur Ahmed Abshir
 
 A new Flutter project.
 Figma Design.
